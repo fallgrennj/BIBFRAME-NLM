@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1i91zJqd8Y6IGTiMoKi2KgkD_7x9ZfstCZvLXvGUE
 Mockup:  Fifteen Minute Hour
 https://docs.google.com/document/d/1N9Xrjc52_Z2VlHVuutvERUl7NW9PzwvV3iRAyjnoQj0/edit?usp=sharing 
 
-Mockup:  Workshop on Artific1al Ecological Systems
+Mockup:  Workshop on Artificial Ecological Systems
 https://docs.google.com/document/d/1ObWV5W0r3VisGpPArBNzMSPnIC5hxyur5IBeXYHVDp8/edit?usp=sharing   
 
   
