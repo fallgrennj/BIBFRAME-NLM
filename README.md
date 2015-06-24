@@ -1,6 +1,30 @@
-###Experimentation with BIBFRAME at the National Library of Medicine
+##Experimentation with BIBFRAME at the National Library of Medicine
 
-6/12/2015
+####June 24, 2015, update
+
+In order to demonstrate possible cataloging applications of a modular approach to BIBFRAME (BF), NLM prepared a supplementary spreadsheet mapping the PCC RDA BIBCO Standard Record Metadata Application Profile (BSR, as of April 14, 2015), BF Lite (as of June 8, 2015) and RDA RDF (as of June 23, 2015) properties, and then used that spreadsheet to manually create examples of original PCC- compliant cataloging.
+
+Knowing that many libraries are following PCC cataloging guidelines, NLM identified all the required elements related to modern print monographs in the BSR and mapped each element to a corresponding BF Lite property and to a corresponding RDA RDF property. In cases where the BF Lite property is broader than the BSR element, NLM mapped the BSR element both to BF Lite and to a more specific property or several more specific properties in other schema.  Where no BF Lite property is available, NLM identified other properties that could be used, mainly from Zepheira’s BF extended vocabularies.  
+
+Using the mappings in the spreadsheet, NLM manually created examples of BF descriptions for two print monographs that would meet the PCC BSR standards, using BF Lite where possible and extensions as needed. There are two mockups for each resource. The first mockup provides extensions in other schema when there is no BF Lite property available.  The second mockup provides supplementary extensions in cases where the BF Lite property maps to more specific properties in other schema. NLM recognizes that there are other mapping possibilities than those we have chosen for these mockups.
+
+####Links
+
+Spreadsheet: Comparison Chart of BSRCore to BF Lite
+https://docs.google.com/spreadsheets/d/1i91zJqd8Y6IGTiMoKi2KgkD_7x9ZfstCZvLXvGUEph0/edit?usp=sharing 
+
+Mockup:  Fifteen Minute Hour
+https://docs.google.com/document/d/1N9Xrjc52_Z2VlHVuutvERUl7NW9PzwvV3iRAyjnoQj0/edit?usp=sharing 
+
+Mockup:  Workshop on Artific1al Ecological Systems
+https://docs.google.com/document/d/1ObWV5W0r3VisGpPArBNzMSPnIC5hxyur5IBeXYHVDp8/edit?usp=sharing   
+
+  
+  
+  
+  
+    
+####June 12, 2015
 
 In November 2014, the National Library of Medicine (NLM) announced that it was taking a different approach to BIBFRAME (BF) experimentation (see [NLM’s Early Implementers registration](http://www.loc.gov/bibframe/implementation/register.html)).  This new approach involved development of a core, widely shareable BF vocabulary that could be extended for greater granularity with existing descriptive schema.   In pursuit of this goal, NLM has been collaborating with Zepheira, George Washington University (GWU), and University of California, Davis (UCD) in development of the [BF Lite vocabulary](http://bibfra.me), as hosted by Zepheira.   Part of the perspective NLM brings to this collaboration is a focus on creating new cataloging data directly in BF rather than converting legacy bibliographic data.  
 
